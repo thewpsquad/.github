@@ -1,4 +1,4 @@
-## About Me
+## About US
 
 Hi there! I'm the official profile for WP Squad. 
 
