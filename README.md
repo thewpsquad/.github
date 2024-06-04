@@ -4,9 +4,9 @@ Welcome to the official GitHub repository for WP Squad's Divi Modules! This repo
 
 **Our Products:**
 
-* **Squad Form Styler:** Take complete control over the styling of your contact forms created with popular plugins like Contact Form 7, Gravity Forms, WPForms, and Fluent Forms. This module allows for seamless integration with Divi's design options, making your forms look beautiful and consistent with your website's overall aesthetic. (Active Installs: 20+)
-* **Squad Modules Lite:** Unleash the full potential of Divi with a collection of advanced modules designed to streamline your workflow and elevate your website's design.  Squad Modules Lite offers a variety of functionalities, including additional layout options, content elements, and customization features. (Active Installs: 500+)
-* **Squad Post Grid Module:** Showcase your content in a visually appealing and user-friendly way with the Squad Post Grid Module. Create fully customizable post grids with a wide range of options to control layout, styling, and functionality. This module makes it easy to display blog posts, portfolios, or any other post type in a way that engages your audience. (Active Installs: 10+)
+* [**Squad Modules Lite:**](https://wordpress.org/plugins/squad-modules-for-divi/) Unleash the full potential of Divi with a collection of advanced modules designed to streamline your workflow and elevate your website's design.  Squad Modules Lite offers a variety of functionalities, including additional layout options, content elements, and customization features. (Active Installs: 500+)
+* [**Squad Form Styler:**](https://wordpress.org/plugins/form-styler-for-divi/) Take complete control over the styling of your contact forms created with popular plugins like Contact Form 7, Gravity Forms, WPForms, and Fluent Forms. This module allows for seamless integration with Divi's design options, making your forms look beautiful and consistent with your website's overall aesthetic. (Active Installs: 20+)
+* [**Squad Post Grid Module:**](https://wordpress.org/plugins/post-grid-module-for-divi/) Showcase your content in a visually appealing and user-friendly way with the Squad Post Grid Module. Create fully customizable post grids with a wide range of options to control layout, styling, and functionality. This module makes it easy to display blog posts, portfolios, or any other post type in a way that engages your audience. (Active Installs: 10+)
 
 **Getting Started:**
 
@@ -19,7 +19,7 @@ For detailed information, installation instructions, and usage guides for each m
 
 We offer comprehensive support for our modules. If you encounter any issues or have questions, please refer to the following resources:
 
-* **Knowledge Base:** https://squadmodules/
+* **Knowledge Base:** https://squadmodules/support
 * **Support Forum:** https://squadmodules/support
 * **Contact Us:** https://squadmodules/support
 
