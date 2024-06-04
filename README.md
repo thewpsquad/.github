@@ -1,4 +1,4 @@
-## WP Squad Divi Modules
+## WP Squad
 
 Welcome to the official GitHub repository for WP Squad's Divi Modules! This repository provides information and resources for our suite of modules that enhance the functionality and design capabilities of the Divi Theme, Extra Theme, and Divi Builder.
 
