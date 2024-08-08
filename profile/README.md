@@ -1,6 +1,6 @@
 ## About US
 
-Hi there! I'm the official profile for WP Squad. 
+Hi there! The official profile for WP Squad. 
 
 We create powerful and user-friendly modules that extend the capabilities of Divi, Extra, and Divi Builder, helping you build beautiful and functional websites.
 
