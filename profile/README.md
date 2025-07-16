@@ -6,7 +6,7 @@ We create powerful and user-friendly modules that extend the capabilities of Div
 
 **Our Products:**
 
-* [**Squad Modules Lite:**](https://wordpress.org/plugins/squad-modules-for-divi/) Unlock a treasure trove of advanced modules to streamline your workflow and elevate your website's design. (500+ Active Installs)
+* [**Squad Modules Lite:**](https://wordpress.org/plugins/squad-modules-for-divi/) Unlock a treasure trove of advanced modules to streamline your workflow and elevate your website's design. (1000+ Active Installs)
 * [**Squad Form Styler:**](https://wordpress.org/plugins/form-styler-for-divi/) Style your contact forms flawlessly with seamless integration into Divi's design options. (20+ Active Installs)
 * [**Squad Post Grid Module:**](https://wordpress.org/plugins/post-grid-module-for-divi/) Create stunning and engaging post grids to showcase your content in a user-friendly way. (10+ Active Installs)
 
